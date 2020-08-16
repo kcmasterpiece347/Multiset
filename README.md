@@ -1,4 +1,4 @@
 # Multiset
-C++ implementation of a multiset data structure.
+C++ implementation of a multiset data structure. Created as an assignment submission for the CS1181 (Computer Science II) course at Wright State University.
 
-Includes main driver for testing class methods as well as the Tuple helper class.
+Includes the Tuple helper class and a main driver for method testing.
